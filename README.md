@@ -6,7 +6,7 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
 
 ![Profile views](https://gpvc.arturio.dev/jasonarvizu)  
 
-<h2 align="center">Technology Stack><h2>
+<h2 align="center">Technology Stack<h2>
   <p align="center">
  <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
