@@ -58,6 +58,6 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=jasonarvizu&theme=tokyonight">
+ <img src="https://activity-graph.herokuapp.com/graph?username=jasonarvizu&theme=radical">
 </p> 
 <hr>
