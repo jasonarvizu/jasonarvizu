@@ -30,7 +30,7 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
   <p align="center">
   
 <a href="https://www.linkedin.com/in/jasonarvizu/">
- <img src="https://img.shields.io/badge/-rjasonarvizu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+ <img src="https://img.shields.io/badge/-jasonarvizu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
  <a href="https://twitter.com/jasonarv4">
  <img src="https://img.shields.io/badge/-jasonarvizu-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
