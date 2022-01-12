@@ -57,7 +57,4 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jasonarvizu&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=jasonarvizu&theme=radical">
-</p> 
 <hr>
