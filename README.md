@@ -37,9 +37,6 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
 </a>
 </p>
   
-  <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
 
 
 <h2 align="center">
