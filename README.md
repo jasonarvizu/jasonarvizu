@@ -40,5 +40,5 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
 
 
 <h2 align="center">
-  My Github Stats<img src="https://media3.giphy.com/media/l46CjrIK2Zi2hy20U/giphy.gif?cid=ecf05e47hsewnrcdh03x5ew0xalharsaa3rp7662n9lyweup&rid=giphy.gif&ct=s" width="50">
+  My Github Stats<img src="https://media3.giphy.com/media/l46CjrIK2Zi2hy20U/giphy.gif" width="50">
 </h2>
