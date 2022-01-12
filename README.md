@@ -25,4 +25,4 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
 </p>
 
   
-  <h2 align="center">Social Media<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+  <h2 align="center">Social Media<</h2>
