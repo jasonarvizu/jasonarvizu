@@ -47,3 +47,19 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
 <h2 align="center">
   My Github Stats<img src="https://media0.giphy.com/media/d3ML8uo39Q8jxwEE/giphy.gif" width="50">
 </h2>
+
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=jasonarvizu&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jasonarvizu&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jasonarvizu&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+</p> 
+<hr>
