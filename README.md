@@ -37,7 +37,12 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
 </a>
 </p>
   
-
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <h2 align="center">
   My Github Stats<img src="https://media0.giphy.com/media/d3ML8uo39Q8jxwEE/giphy.gif" width="50">
