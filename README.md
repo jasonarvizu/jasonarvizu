@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jason
-#### Software Engineer
+#### And I am a Software Engineer
 ![Software Engineer](https://pbs.twimg.com/profile_banners/761735759644663808/1640691176/600x200)
 
 I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning languages and frameworks from all ends of the spectrum like React and Typescript, to Python and Pandas. I also enjoy creating models in Tensorflow aswell.
