@@ -23,3 +23,6 @@ I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning language
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
+  
+  <h2 align="center">Social Media<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
