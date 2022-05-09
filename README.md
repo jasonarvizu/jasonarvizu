@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jason
 
-I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning languages and frameworks from all ends of the spectrum like React and Typescript, to Python and Pandas. I also enjoy creating models in Tensorflow.
+I'm Jason Arvizu, and I am a Software Engineer. I really enjoy learning languages and frameworks from all ends of the spectrum like React and C#, to Python and Pandas. I also enjoy creating models in Tensorflow.
 
 ![Profile views](https://gpvc.arturio.dev/jasonarvizu)  
 
